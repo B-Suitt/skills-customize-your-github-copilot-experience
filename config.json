@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create CRUD API with FastAPI; starter app included",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-06-17"
     }
   ]
 }
