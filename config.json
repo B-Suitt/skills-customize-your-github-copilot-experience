@@ -66,5 +66,20 @@
       "path": "assignments/fastapi-rest-api",
       "dueDate": "2026-06-17"
     }
+    ,
+    {
+      "id": "algorithms-intro",
+      "title": "Intro a algoritmos — búsqueda y ordenación básica",
+      "description": "Búsqueda lineal y binaria; ordenación básica (bubble sort).",
+      "path": "assignments/algorithms-intro",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
